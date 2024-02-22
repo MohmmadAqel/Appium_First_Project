@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-22T18:25:27 EET" name="Default suite" finished-at="2024-02-22T18:26:19 EET" duration-ms="52025">
+    <groups>
+    </groups>
+    <test started-at="2024-02-22T18:25:27 EET" name="Default test" finished-at="2024-02-22T18:26:19 EET" duration-ms="52025">
+      <class name="MyTestCases">
+        <test-method is-config="true" signature="TheSetUp()[pri:0, instance:MyTestCases@53aac487]" started-at="2024-02-22T18:25:27 EET" name="TheSetUp" finished-at="2024-02-22T18:25:27 EET" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TheSetUp -->
+        <test-method signature="LoginWithBrowser()[pri:0, instance:MyTestCases@53aac487]" started-at="2024-02-22T18:25:27 EET" name="LoginWithBrowser" finished-at="2024-02-22T18:26:19 EET" duration-ms="51889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithBrowser -->
+        <test-method is-config="true" signature="PostTesting()[pri:0, instance:MyTestCases@53aac487]" started-at="2024-02-22T18:26:19 EET" name="PostTesting" finished-at="2024-02-22T18:26:19 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostTesting -->
+      </class> <!-- MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
